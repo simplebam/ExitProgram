@@ -18,14 +18,14 @@
  * [最美应用－从Android研发工程师的角度 の 最美时光 - 简书](https://www.jianshu.com/p/bc7a3f022854) 
 
 ### 开源库 
-okdownload  下载使用
-fir 作为更新所用
-luban 图片压缩
-slice 安卓p
-bottomsheet
-rxbinding  rxjava，rxAndroid结合
-retrofit 包括了okhttp
+* okdownload  下载使用
+* fir 作为更新所用
+* luban 图片压缩
+* slice 安卓p
+* bottomsheet
+* rxbinding  rxjava，rxAndroid结合
+* retrofit 包括了okhttp
 
 ### 另外
-七牛云存储图片
-bomb 作为服务器 https://blog.csdn.net/qq_27561483/article/details/64921619 
+* 七牛云存储图片
+* bomb 作为服务器 https://blog.csdn.net/qq_27561483/article/details/64921619 
